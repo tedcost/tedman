@@ -2,6 +2,6 @@
 Very Basic Pacman Clone. I made this from scratch.
 
 
-32 bit game rendered into a .exe file that should work very easily. Didn't put much more work into it after I finished the basic funcitonality. 
+32 bit game with all the necessary dll / resource files. Should work fine as long as it's unzipped and only the .exe file is accessed. 
 
-Moved on to bigger / better things. Enjoy
+Stopped working on this as soon as the functionality was basically down. Moved on to bigger / better things. Enjoy
